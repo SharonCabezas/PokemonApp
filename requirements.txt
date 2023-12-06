@@ -1,4 +1,0 @@
-pip install streamlit-option-menu
-pip install streamlit-lottie
-pip install requests
-pip install --upgrade streamlit
