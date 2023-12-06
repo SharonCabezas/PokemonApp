@@ -1,7 +1,6 @@
 from PIL import Image
 import random
 from pathlib import Path
-from streamlit_lottie import st_lottie
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
