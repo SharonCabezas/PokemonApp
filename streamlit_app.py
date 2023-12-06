@@ -2,6 +2,7 @@ from PIL import Image
 import random
 from pathlib import Path
 import matplotlib.pyplot as plt
+from streamlit_lottie import st_lottie
 import tensorflow as tf
 import numpy as np
 import pandas as pd
